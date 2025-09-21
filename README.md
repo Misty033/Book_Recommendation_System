@@ -1,2 +1,2 @@
-![Recsys](rec_image/rec_image/rec_img.png)
+![Recsys workflow](rec_image/rec_img.png)
 
