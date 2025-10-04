@@ -1,8 +1,5 @@
 # Book Recommendation System
 
-[![Python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)  
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
 A scalable book recommendation system built using **collaborative filtering** and **content-based filtering**, capable of handling large datasets and providing personalized book suggestions.
 
 ## Features
