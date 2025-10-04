@@ -48,5 +48,3 @@ A scalable book recommendation system built using **collaborative filtering** an
 ## Author
 
 **Misty Roy**  
-Email: your.email@example.com  
-GitHub: [https://github.com/your-github-profile](https://github.com/your-github-profile)
